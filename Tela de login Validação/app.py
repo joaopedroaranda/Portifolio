@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Caminho para o arquivo JSON
-JSON_FILE = 'users.json'
+JSON_FILE = 'Tela de login Validação/users.json'
 
 # Função para ler o arquivo JSON
 def read_users():
